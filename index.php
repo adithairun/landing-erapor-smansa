@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>ERAPOR - SMA NEGERI 1 GORONTALO</title>
+  <title>E-RAPOR - SMA NEGERI 1 GORONTALO</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -40,7 +40,7 @@
   <header id="header" class="fixed-top d-flex align-items-center header-transparent">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.html">ERAPOR - SMAN 1 GORONTALO</a></h1>
+      <h1 class="logo me-auto"><a href="index.html">E-RAPOR - SMAN 1 GORONTALO</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -64,9 +64,9 @@
         <div class="col-lg-6 intro-info order-lg-first order-last" data-aos="zoom-in" data-aos-delay="100">
           <h2>Pilih Aplikasi<br><span>Sesuai dengan Kurikulum</span></h2>
           <div>
-            <a href="http://e-rapor.sma1gorontalo.sch.id" target="_blank" class="btn btn-success">E-RAPOR K13</a>
+            <a href="http://e-rapor.sma1gorontalo.sch.id" target="_blank" class="btn btn-success">E-RAPOR KURIKULUM 2013</a>
 
-             <a href="http://e-rapor.sma1gorontalo.sch.id" target="_blank"  class="btn-get-started scrollto">E-RAPOR MERDEKA (SP)</a>
+             <a href="http://e-rapor.sma1gorontalo.sch.id" target="_blank"  class="btn-get-started scrollto">E-RAPOR KURIKULUM MERDEKA</a>
           </div>
         </div>
 
@@ -206,7 +206,7 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong>TIM IT SMAN 1 GORONTALO | 2018 - 2022</strong>. All Rights Reserved
+        &copy; Copyright <strong><a href="https://tim-it.sma1gorontalo.sch.id" target="_blank">TIM IT SMAN 1 GORONTALO</a> | 2018 - <?php echo date("Y"); ?></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!--
